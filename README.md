@@ -9,7 +9,8 @@ I'm a Front-End Web Developer 💻 !
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/barbaros-ihtiyar/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Barbaros Ihtiyar | LinkedIn" width="21px"/></a>
-<a href="mailto: barbarossihtiyar@gmail.com"><img align="left" src="![image](https://user-images.githubusercontent.com/104565169/236680600-d5c0e6d6-e851-45c5-ad5c-74c7991a0ad1.png)" alt="Barbaros Ihtiyar | Gmail" width="21px"/></a>
+<a href="mailto: barbarossihtiyar@gmail.com"><img align="left" src="![image](https://user-images.githubusercontent.com/104565169/236681604-0a99a1d4-6633-4f05-a21b-9207eae96104.png)
+" alt="Barbaros Ihtiyar | Gmail" width="21px"/></a>
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
