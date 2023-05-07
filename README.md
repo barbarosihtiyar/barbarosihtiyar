@@ -5,6 +5,7 @@ Hi there, I'm <a href="https://www.linkedin.com/in/barbaros-ihtiyar/" target="_b
 <h2 align="center">
 I'm a Front-End Web Developer 💻 !
 </h2> 
+<br/>
 
 ### 🤝 Connect with me:
 
