@@ -9,8 +9,6 @@ I'm a Front-End Web Developer 💻 !
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/barbaros-ihtiyar/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Barbaros Ihtiyar | LinkedIn" width="21px"/></a>
-<a href="mailto: barbarossihtiyar@gmail.com"><img align="left" src="![image](https://user-images.githubusercontent.com/104565169/236681604-0a99a1d4-6633-4f05-a21b-9207eae96104.png)
-" alt="Barbaros Ihtiyar | Gmail" width="21px"/></a>
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
@@ -30,6 +28,7 @@ I'm a Front-End Web Developer 💻 !
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 </br>
 
