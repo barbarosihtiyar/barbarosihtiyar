@@ -14,11 +14,11 @@ I'm a Front-End Web Developer 💻 !
 
 ## 🔭 I'm currently working on
 
-- Netflix Clone React Project
+- Spotify Clone React Project
 
 ## 🌱 I'm currently learning
 
-- Next.js
+- Vue.js
 - Tailwind Css
 
 
