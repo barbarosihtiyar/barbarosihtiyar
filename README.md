@@ -14,7 +14,7 @@ I'm a Front-End Web Developer 💻 !
 
 ## 🔭 I'm currently working on
 
-- Spotify Clone React Project
+- Fake Tweet Generator
 
 ## 🌱 I'm currently learning
 
