@@ -14,11 +14,11 @@ I'm a Front-End Web Developer 💻 !
 
 ## 🔭 I'm currently working on
 
-- Fake Tweet Generator
+- Youtube Clone
 
 ## 🌱 I'm currently learning
 
-- Vue.js
+- Redux.js
 - Tailwind Css
 
 
